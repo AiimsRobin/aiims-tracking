@@ -1,2 +1,3 @@
-# aiims-tracking
-WordPress plugin: site-wide header/body/footer scripts + Thank-You conversion code (optional Meta Pixel/CAPI). Self-updates from GitHub Releases.
+# AiiMS Tracking
+
+Lightweight WordPress plugin for adding site-wide header, body and footer scripts, plus Thank-You / conversion-page code. Self-updates from its GitHub Releases.
